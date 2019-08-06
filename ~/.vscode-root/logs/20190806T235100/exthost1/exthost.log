@@ -1,0 +1,181 @@
+[2019-08-06 23:51:03.011] [exthost] [info] extension host started
+[2019-08-06 23:51:03.023] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-08-06 23:51:03.023] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/11/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-08-06 23:51:03.025] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-08-06 23:51:03.025] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/11/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-08-06 23:51:03.036] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-08-06 23:51:03.036] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/11/usr/share/code/resources/app/extensions/git/dist/main
+[2019-08-06 23:51:03.113] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-08-06 23:51:03.113] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/11/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-08-06 23:51:03.117] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"activationEvent":"*"}
+[2019-08-06 23:51:03.117] [exthost] [info] ExtensionService#loadCommonJSModule /home/ansur/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2019-08-06 23:51:03.131] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"activationEvent":"*"}
+[2019-08-06 23:51:03.131] [exthost] [info] ExtensionService#loadCommonJSModule /home/ansur/.vscode/extensions/vscode-icons-team.vscode-icons-9.2.0/dist/src/vscode-icons.bundle.js
+[2019-08-06 23:51:03.223] [exthost] [info] eager extensions activated
+[2019-08-06 23:51:23.454] [exthost] [info] extension host started
+[2019-08-06 23:51:23.465] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-08-06 23:51:23.465] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/11/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-08-06 23:51:23.468] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-08-06 23:51:23.468] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/11/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-08-06 23:51:23.480] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-08-06 23:51:23.480] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/11/usr/share/code/resources/app/extensions/git/dist/main
+[2019-08-06 23:51:23.555] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-08-06 23:51:23.555] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/11/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-08-06 23:51:23.562] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"activationEvent":"*"}
+[2019-08-06 23:51:23.562] [exthost] [info] ExtensionService#loadCommonJSModule /home/ansur/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2019-08-06 23:51:23.574] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"activationEvent":"*"}
+[2019-08-06 23:51:23.574] [exthost] [info] ExtensionService#loadCommonJSModule /home/ansur/.vscode/extensions/vscode-icons-team.vscode-icons-9.2.0/dist/src/vscode-icons.bundle.js
+[2019-08-06 23:51:23.927] [exthost] [info] eager extensions activated
+[2019-08-06 23:52:46.213] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2019-08-06 23:52:46.213] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/11/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-08-06 23:52:46.294] [exthost] [info] ExtensionService#_doActivateExtension lonefy.vscode-JS-CSS-HTML-formatter {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2019-08-06 23:52:46.294] [exthost] [info] ExtensionService#loadCommonJSModule /home/ansur/.vscode/extensions/lonefy.vscode-js-css-html-formatter-0.2.3/out/src/extension
+[2019-08-06 23:55:06.489] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2019-08-06 23:55:06.489] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/11/usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2019-08-06 23:55:18.375] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-08-06 23:55:18.375] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/11/usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-08-06 23:55:18.383] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-08-06 23:55:18.383] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/11/usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-08-07 00:03:50.227] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-08-07 00:03:50.229] [exthost] [error] Error: <main> TypeScript Server Error (3.5.2)
+Cannot read property 'parent' of undefined
+TypeError: Cannot read property 'parent' of undefined
+    at Object.deleteDeclaration (tsserver.js:112665:56)
+    at _loop_9 (tsserver.js:112284:47)
+    at ChangeTracker.finishDeleteDeclarations (tsserver.js:112291:21)
+    at ChangeTracker.getChanges (tsserver.js:112311:22)
+    at Function.ChangeTracker.with (tsserver.js:111856:32)
+    at Object.getCodeActions (tsserver.js:116453:68)
+    at tsserver.js:112841:121
+    at Object.flatMap (tsserver.js:573:25)
+    at Object.getFixes (tsserver.js:112841:23)
+    at tsserver.js:122417:35
+    at Object.flatMap (tsserver.js:573:25)
+    at Object.getCodeFixesAtPosition (tsserver.js:122415:23)
+    at IOSession.Session.getCodeFixes (tsserver.js:131471:64)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (tsserver.js:130221:61)
+    at tsserver.js:131665:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:131656:28)
+    at IOSession.Session.executeCommand (tsserver.js:131665:33)
+    at IOSession.Session.onMessage (tsserver.js:131687:35)
+    at Interface.<anonymous> (tsserver.js:132978:27)
+    at Interface.emit (events.js:182:13)
+    at Interface._onLine (readline.js:290:10)
+    at Interface._normalWrite (readline.js:433:12)
+    at Socket.ondata (readline.js:149:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    at readableAddChunk (_stream_readable.js:264:11)
+    at Socket.Readable.push (_stream_readable.js:219:10)
+    at Pipe.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)
+	at Function.create (/snap/code/11/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:63436)
+	at h.dispatchResponse (/snap/code/11/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:56618)
+	at h.dispatchMessage (/snap/code/11/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:55516)
+	at constructor._reader.onData.e (/snap/code/11/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:54992)
+	at u.fire (/snap/code/11/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:468)
+	at t.Reader.onLengthData (/snap/code/11/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:61656)
+	at Socket.t.Reader.constructor.e.on.e (/snap/code/11/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:61304)
+	at Socket.emit (events.js:182:13)
+	at addChunk (_stream_readable.js:283:12)
+	at readableAddChunk (_stream_readable.js:264:11)
+	at Socket.Readable.push (_stream_readable.js:219:10)
+	at Pipe.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)
+[2019-08-07 00:05:45.691] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-08-07 00:05:45.691] [exthost] [error] Error: <main> TypeScript Server Error (3.5.2)
+Cannot read property 'parent' of undefined
+TypeError: Cannot read property 'parent' of undefined
+    at Object.deleteDeclaration (tsserver.js:112665:56)
+    at _loop_9 (tsserver.js:112284:47)
+    at ChangeTracker.finishDeleteDeclarations (tsserver.js:112291:21)
+    at ChangeTracker.getChanges (tsserver.js:112311:22)
+    at Function.ChangeTracker.with (tsserver.js:111856:32)
+    at Object.getCodeActions (tsserver.js:116453:68)
+    at tsserver.js:112841:121
+    at Object.flatMap (tsserver.js:573:25)
+    at Object.getFixes (tsserver.js:112841:23)
+    at tsserver.js:122417:35
+    at Object.flatMap (tsserver.js:573:25)
+    at Object.getCodeFixesAtPosition (tsserver.js:122415:23)
+    at IOSession.Session.getCodeFixes (tsserver.js:131471:64)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (tsserver.js:130221:61)
+    at tsserver.js:131665:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:131656:28)
+    at IOSession.Session.executeCommand (tsserver.js:131665:33)
+    at IOSession.Session.onMessage (tsserver.js:131687:35)
+    at Interface.<anonymous> (tsserver.js:132978:27)
+    at Interface.emit (events.js:182:13)
+    at Interface._onLine (readline.js:290:10)
+    at Interface._normalWrite (readline.js:433:12)
+    at Socket.ondata (readline.js:149:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    at readableAddChunk (_stream_readable.js:264:11)
+    at Socket.Readable.push (_stream_readable.js:219:10)
+    at Pipe.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)
+	at Function.create (/snap/code/11/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:63436)
+	at h.dispatchResponse (/snap/code/11/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:56618)
+	at h.dispatchMessage (/snap/code/11/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:55516)
+	at constructor._reader.onData.e (/snap/code/11/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:54992)
+	at u.fire (/snap/code/11/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:468)
+	at t.Reader.onLengthData (/snap/code/11/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:61656)
+	at Socket.t.Reader.constructor.e.on.e (/snap/code/11/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:61304)
+	at Socket.emit (events.js:182:13)
+	at addChunk (_stream_readable.js:283:12)
+	at readableAddChunk (_stream_readable.js:264:11)
+	at Socket.Readable.push (_stream_readable.js:219:10)
+	at Pipe.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)
+[2019-08-07 00:17:29.195] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-08-07 00:17:29.195] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/11/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2019-08-07 00:17:51.338] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"activationEvent":"onLanguage:less"}
+[2019-08-07 00:17:51.338] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/11/usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain
+[2019-08-07 00:24:41.352] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-08-07 00:24:41.352] [exthost] [error] Error: <main> TypeScript Server Error (3.5.2)
+Debug Failure. Expected 1 === 2. Registered script kind should match new script kind. /home/ansur/Web Dev/My Practice/redux/myreduxbasics/src/App.js
+Error: Debug Failure. Expected 1 === 2. Registered script kind should match new script kind. /home/ansur/Web Dev/My Practice/redux/myreduxbasics/src/App.js
+    at Object.assertEqual (tsserver.js:2047:17)
+    at getOrCreateSourceFileByPath (tsserver.js:122040:34)
+    at Object.getOrCreateSourceFile [as getSourceFile] (tsserver.js:121998:24)
+    at findSourceFile (tsserver.js:90587:29)
+    at processImportedModules (tsserver.js:90875:25)
+    at findSourceFile (tsserver.js:90640:17)
+    at tsserver.js:90486:85
+    at getSourceFileFromReferenceWorker (tsserver.js:90453:34)
+    at processSourceFile (tsserver.js:90486:13)
+    at processRootFile (tsserver.js:90316:13)
+    at tsserver.js:89332:60
+    at Object.forEach (tsserver.js:292:30)
+    at Object.createProgram (tsserver.js:89332:16)
+    at synchronizeHostData (tsserver.js:121963:26)
+    at Object.getProgram (tsserver.js:122055:13)
+    at InferredProject.Project.updateGraphWorker (tsserver.js:126308:53)
+    at InferredProject.Project.updateGraph (tsserver.js:126252:42)
+    at Object.updateProjectIfDirty (tsserver.js:127105:45)
+    at InferredProject.Project.getLanguageService (tsserver.js:125939:28)
+    at IOSession.Session.getApplicableRefactors (tsserver.js:131421:32)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (tsserver.js:130239:61)
+    at tsserver.js:131665:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:131656:28)
+    at IOSession.Session.executeCommand (tsserver.js:131665:33)
+    at IOSession.Session.onMessage (tsserver.js:131687:35)
+    at Interface.<anonymous> (tsserver.js:132978:27)
+    at Interface.emit (events.js:182:13)
+    at Interface._onLine (readline.js:290:10)
+    at Interface._normalWrite (readline.js:433:12)
+    at Socket.ondata (readline.js:149:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    at readableAddChunk (_stream_readable.js:264:11)
+    at Socket.Readable.push (_stream_readable.js:219:10)
+    at Pipe.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)
+	at Function.create (/snap/code/11/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:63436)
+	at h.dispatchResponse (/snap/code/11/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:56618)
+	at h.dispatchMessage (/snap/code/11/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:55516)
+	at constructor._reader.onData.e (/snap/code/11/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:54992)
+	at u.fire (/snap/code/11/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:468)
+	at t.Reader.onLengthData (/snap/code/11/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:61656)
+	at Socket.t.Reader.constructor.e.on.e (/snap/code/11/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:61304)
+	at Socket.emit (events.js:182:13)
+	at addChunk (_stream_readable.js:283:12)
+	at readableAddChunk (_stream_readable.js:264:11)
+	at Socket.Readable.push (_stream_readable.js:219:10)
+	at Pipe.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)

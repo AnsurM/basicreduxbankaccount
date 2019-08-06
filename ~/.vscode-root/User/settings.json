@@ -1,0 +1,9 @@
+{
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "files.autoSave": "off"
+}
